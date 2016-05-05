@@ -7,6 +7,11 @@ Agile Learning Centers
 _Beta_ Starter Kit
 
 **Temporary note:** This is just a working document and will become its own web site. Items in red text should be updated later to link to the appropriate section once it exists.
+<div class="note">
+<h5>Header 5 text</h5>
+Note body text for test tagging section
+</div>
+
 
 The Starter Kit is organized into three main parts. Founders/Directors/Coherence-Holders will need be familiar with all three sections, but many people involved in running an ALC will primarily be drawn to one of these sections which connects most to the focus of their work.
 
