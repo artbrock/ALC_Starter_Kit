@@ -9,7 +9,6 @@
   * [Compliance with State Requirements](organization_&_administration/compliance_with_state_requirements.md)
   * [Financial Planning](organization_&_administration/financial_planning.md)
   * [Location, Location, Location!](organization_&_administration/location,_location,_location.md)
-  * [](organization_&_administration/.md)
   * [Enrolling Students](organization_&_administration/enrolling_students.md)
   * [Financial Management & Administration](organization_&_administration/financial_management_&_administration.md)
   * [Employment: Hiring, Contracting & Firing People](organization_&_administration/employment_hiring,_contracting_&_firing_people.md)
