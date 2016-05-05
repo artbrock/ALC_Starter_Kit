@@ -1,0 +1,7 @@
+# Organization & Administration {#organization-administration}
+
+Congratulations for being a visionary committed to creating a powerful direction for education! We hope that by learning from others' journeys in the Starter Kit and through our websites, you will be able to get started as easily as possible. Please always feel free to provide feedback, ask questions and share your discoveries throughout your journey for those that will soon follow you.
+
+Starting a school can be an overwhelming project when you feel like you have to pull together students, staff, sponsors and a location. It's not uncommon for parts of a group to hold off on commitment until others are also able to commit, leaving the group at large stagnant. Ideally, you will be starting with at least some of these ingredients (students, money or real estate). The support from this community and sharing of lessons learned and stories will help you get from wherever you are in the process today through opening your doors and operating successfully.
+
+Within this document, there are cross links to content in other sections; it can be a lot to absorb everything in one pass. You are strongly encouraged to visit an ALC in order to experience how smoothly and easily our tools work to sustain a vibrant and participatory culture.

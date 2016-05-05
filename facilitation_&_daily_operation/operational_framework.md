@@ -1,0 +1,37 @@
+## Operational Framework {#operational-framework}
+
+Every school or educational program operates within a structure or framework. This is a summary of the ALC framework and exploration of the role of an Agile Learning Facilitator (ALF).
+
+You are encouraged to adapt and modify all of these structures, tools and practices to fit your community. These are the leaves on the Agile Tree which change with seasons or evolving needs. Just stay true to the [Soil](../communication_&_promotion/alc_educational_model_-_an_agile_tree.md#the-soil-is-trust), [Roots](../communication_&_promotion/alc_educational_model_-_an_agile_tree.md#roots-assumptions) & [Branches](../communication_&_promotion/alc_educational_model_-_an_agile_tree.md#branches-principles) (Trust, Paradigm & Principles) as you make ALC work for you.
+
+### Daily and Weekly Rhythms {#daily-and-weekly-rhythms}
+
+Establishing rhythms can help provide comfort and familiarity in an environment with a lot of freedom and divergent interests being explored. The following recommendations are a good starting point for a new ALC:
+
+#### Daily Cycles {#daily-cycles}
+
+*   *   **Morning Meeting:** Gather in small groups (called “Spawn Points”) at a regular start time to share intentions and coordinate scheduling for the day. Each person (both students and staff) posts their intentions to a Kanban Board in order to support focus and achieve goals. If completed sticky notes are recorded (in a program like Trello: trello.com), you will generate a project-based transcript. We also take morning attendance at this meeting. (10 minutes)
+    *   **Lunch:** Rather than instituting scheduled times for snacks or lunch, people are encouraged to eat when they are hungry and maintain work flow when they are engaged. Some students (especially younger ones immersed in their play) may need to be reminded to pause and eat.
+    *   **Clean-up:** Students do personal clean-up of whatever activity they were involved in, then do a brief shared clean-up task. (5 minutes)
+    *   **Afternoon Meeting:** Students and staff return to Spawn Points to update their Kanban Boards and share what each did that day with the group. The focus of this meeting is on sharing and recording; the ALF leading the Spawn assists in the documentation of what the students accomplished. Afternoon attendance can be taken at this time if necessary. (5-10 minutes)
+    *   **Closing Circle:** The entire school gathers togetherand creates a calm, sacred space (light a candle, pass a talking stick) to share gratitudes, acknowledgements, accomplishments, or insights. Afterwards, we often play a group game together as parents arrive to pick up their kids. (15-20 minutes)
+
+#### Weekly Cycles {#weekly-cycles}
+
+*   *   **First morning** of the week: Hold a “Set the Week Meeting” to schedule group activities, outings, and events. Usually these activities include the subset of interested students; rarely, they involve everyone in the school. Review the offerings and opportunities that have been shared by parents or volunteers and find out who wants to participate in what. Arrange the schedule and physically post it in a place where it is easy to see. Also, email it to community members. (10-20 minutes)
+    *   **Last morning** of the week: Hold a “Change-up Meeting.” Ask students for feedback about what’s not working, what they’d like to see more of, and how they see making those changes by using the Community Mastery Board. (10-30 minutes)
+    *   **Last afternoon** of the week: Set aside about an hour (with no competing activities scheduled) to support students in sharing accomplishments and reflections on their blogs. Students can write posts, record audio podcasts, or post videos. They often want to include pictures of artwork, stories written, screenshots of video game creations, game scores, descriptions of field trips taken, videos of performances, accomplishment badges or certificates from online educational outlets, and other things that help represent their learning journey. Posting reflections in a shareable format is a vital part of the learning cycle and provides critical documentation for parents, colleges or other programs that need to see examples of a student’s work.
+
+In organizing the rhythm of your days and weeks, reserve as much time as possible for the students’ passions and exploration. Do not fill up their schedule with required activities and meetings. A good rule of thumb is to preserve 90% or more of students’ time for self-directed activities.
+
+### Basic Roles and Responsibilities of Groups and Individuals {#basic-roles-and-responsibilities-of-groups-and-individuals}
+
+[See this section](../organization_&_administration/becoming_a_legal_entity.md#legal-structure-and-bylaws) to help establish your school’s legal structure. The details of your ALC may vary, but the basic roles of individuals and groups in daily operation are as follows:
+
+*   **Students:** The students are the real “customers” that the school serves. Student voices are included and are usually decisive in running the school. The responsibility to make the school work to meet everyone’s needs is shared by both students and staff.
+*   **Staff** (ALFs, Administration, & Resource People): _Agile Learning Facilitators_ (ALFs) provide encouragement and scaffolding, support personal growth, co-create, and co-learn with students during the daily operation of the ALC. _Agile Learning Administrators_ keep the school open and existing by ensuring financial and legal needs are met. _Resource People_ are individuals who share their knowledge, skills, and passions with the ALC community. They might bring a specific activity or project to share with the students. They are not full-time staff and are often unpaid volunteers.
+*   **School Administration:**
+    *   **School Council** (or **Change-up Meeting**): This is the structure by which the students govern themselves and the daily operation of the school. It meets regularly (usually weekly for 15 to 30 minutes) to establish agreements and develop cultural norms.
+    *   **Culture Committee:** This is a group of dedicated “culture keepers” from among the students and staff who volunteer to meets on an as-needed basis. They address more complex or ongoing issues that have proven to be too time-consuming for the entire student body to solve during Change-Up. The conflict resolution process culminates in the issue being addressed in a Culture Committee meeting.
+    *   **Working Groups**: These are groups composed of parents and staff (and sometimes students) that help organize and administrate the school. Examples include a Finance Working Group, Admissions Working Group, and a New Campus Working Group. Working Groups make decisions, take action, and present recommendations to the Assembly.
+    *   **Board or Assembly**: This is a quarterly stakeholders’ meeting that generally includes parents and staff. The Working Groups update the Assembly and new Working Groups are formed as needed. Common Assembly topics include admissions/enrollment concerns, budget, announcements, building/location updates, feedback from parents, staff changes, and any other topic of general community importance.
