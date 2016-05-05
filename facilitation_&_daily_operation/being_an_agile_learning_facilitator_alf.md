@@ -115,15 +115,16 @@ For more information about GameShifting, see http://EmergingLeaderLabs.org/Games
 
 In order to keep discussions productive and efficient, we employ hand-signals that serve as visual communication. When we speak one-on-one with each other, we rely on non-verbal communication cues that don’t always translate well to a group setting. Hand signals supply the group with instant feedback without interrupting a speaker. Hand signals make non-verbal communication explicit and deliberate by replacing subtle cues with intentional, well-defined ones.
 
-![photo 3.JPG](assets/photo_3jpg.jpeg)
-
+![Twinkles](photo_3.jpg)
 **Twinkle fingers / “This friend speaks my mind”** - this signal is done with wiggling fingers and demonstrates strong resonance with what is being spoken.
 
-**Delta / Change-up:** a call to attention that the group process may need to be GameShifted or that the current process agreements are not being honored. A person can give this hand signal so others can have a chance to wrap up what they’re saying before they say what change-up they see is needed.![photo 1.JPG](assets/photo_1jpg.jpeg)
+![Change-Up](photo_1.jpg)
+**Delta / Change-up:** a call to attention that the group process may need to be GameShifted or that the current process agreements are not being honored. A person can give this hand signal so others can have a chance to wrap up what they’re saying before they say what change-up they see is needed.
 
 Sometimes the sign is enough to shift people’s awareness and behavior back on the intended track.
 
-**Got ya / “You have been heard”** - This signal is held over the heart and means that the listener has understood the speaker’s point. It includes a gentle nudge that the speaker may move on and release it to the group. It is often helpful when the speaker is repeating a point in different words. If they know they are understood, they know they can move on. For example, this explanation may have warranted a “got ya” sign a sentence or two ago. The explanation continues in order to be sure the point is driven home, but if someone was here to utilize the “got ya” sign, it would have saved us all some valuable reading time.![photo 2.JPG](assets/photo_2jpg.jpeg)
+![Gotcha](photo_2.jpg)
+**Got ya / “You have been heard”** - This signal is held over the heart and means that the listener has understood the speaker’s point. It includes a gentle nudge that the speaker may move on and release it to the group. It is often helpful when the speaker is repeating a point in different words. If they know they are understood, they know they can move on. For example, this explanation may have warranted a “got ya” sign a sentence or two ago. The explanation continues in order to be sure the point is driven home, but if someone was here to utilize the “got ya” sign, it would have saved us all some valuable reading time.
 
 There are a number of other hand-signals created for various needs: Stay on Focus, Trust the Group, Clarification Question, Slow-Down, Direct Response, etc. You should feel free to create new signals for shifting and signaling dynamics as needed in your community.
 
