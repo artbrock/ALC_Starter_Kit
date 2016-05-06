@@ -1,2 +1,13 @@
 
+h1 {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a1dbff+0,cbebff+53,f0f9ff+100 */
+background: #a1dbff; /* Old browsers */
+background: -moz-linear-gradient(top,  #a1dbff 0%, #cbebff 53%, #f0f9ff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #a1dbff 0%,#cbebff 53%,#f0f9ff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #a1dbff 0%,#cbebff 53%,#f0f9ff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a1dbff', endColorstr='#f0f9ff',GradientType=0 ); /* IE6-9 */
+}
+
+h2 { border-bottom: solid black 2px;}
+
 .note { background-color: blue; color: white; padding: 3em; }
