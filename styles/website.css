@@ -4,7 +4,7 @@
   background: url("http://embed.polyvoreimg.com/cgi/img-thing/size/y/tid/15392525.jpg") no-repeat top left;
 }
 
-page-inner { background-color: white; }
+.page-inner { background-color: white; padding-top: 50px; }
 
 h1 {
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a1dbff+0,cbebff+53,f0f9ff+100 */
