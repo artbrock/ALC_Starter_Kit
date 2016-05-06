@@ -1,12 +1,10 @@
 # ALC Starter Kit {#alc-starter-kit}
 
-## Agile Learning Centers
-
 ![alc_logo_animation.gif](assets/alclogo_animation.gif)
 
-_Beta_ Starter Kit
+## _Beta_ Starter Kit
 
-**Temporary note:** This is just a working document and will become its own web site. Items in red text should be updated later to link to the appropriate section once it exists.
+**Temporary note:** This is just a working document and will become its own web site. Items in <span style="color:red;">red text</span> should be updated later to link to the appropriate section once it exists.
 <div class="note">
 <h5>Header 5 text</h5>
 Note body text for test tagging section
