@@ -1,6 +1,6 @@
 # ALC Starter Kit {#alc-starter-kit}
 
-Agile Learning Centers
+## Agile Learning Centers
 
 ![alc_logo_animation.gif](assets/alclogo_animation.gif)
 
