@@ -48,3 +48,5 @@ You should at least track people’s status in major steps of the process and yo
     *   Immunization Records (sample)
     *   School Exit Permissions (can kids leave the school alone, with teens, with staff) (sample)
     *   General Permission Slip (for field trips/outings with staff and volunteers) (sample)
+
+Step 1: Decide on a system for tracking prospects and put in anyone you have so far (even if that’s founders).
