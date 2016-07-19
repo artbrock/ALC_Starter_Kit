@@ -81,3 +81,5 @@ Showing the human side of trying and sometimes failing can actually build greate
 If writing blog posts isn’t your thing (or even if it is, you can still do this), it isn’t hard to point your smartphone at your face, press “record,” and tell a story. That part is easy. Getting comfortable with how you look and sound is another step. Then you can develop your “look/feel/act natural while being filmed” skills.
 
 It’s easy to create a YouTube channel, and it’s also easy to create YouTube playlists of videos that are yours or other people’s to steer people to for learning more about these alternative approaches to education.
+
+Step 1: Assuming you have a name picked out, establish your online presence with a polished website (or contact us to join the ALC network and let us help you get up and running quickly).
