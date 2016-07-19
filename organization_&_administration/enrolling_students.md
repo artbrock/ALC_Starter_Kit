@@ -31,10 +31,10 @@ It is important to have an admissions process that provides a clear path for peo
 A sample process might look like:
 
 *   **Prospect** -- You receive someone’s information either because they contacted you or were referred to you. Invite them to engage.
-*   **Orientation** -- A visit, phone conversation, or attendance at an event or Parent Interest Night. Invite them to Apply.
+*   **Orientation** -- A visit, phone conversation, or attendance at an event or Parent Interest Night. Invite them to apply.
 *   **Application** -- They signify their interest by completing the Online Application (and payment of any application fee and completion of the Tuition Worksheet if they are requesting financial assistance). Invite them to schedule a visiting period.
 *   **Visiting Period** -- The student to attends for some days or a week to see whether they are a good fit for the school’s culture and capacities.
-*   **Final Review** -- Negotiation of terms of acceptance (or rejection) including any special coverage for needs of their student, tuition amount, payment timelines, etc. to be put into their Enrollment Agreement. Invite them to Enroll.
+*   **Final Review** -- Negotiation of terms of acceptance (or rejection) including any special coverage for needs of their student, tuition amount, payment timelines, etc. to be put into their Enrollment Agreement. Invite them to enroll.
 
 You should at least track people’s status in major steps of the process and you may also want to keep track of other touchpoints like communications by phone, voicemail or email throughout their admissions process.
 
