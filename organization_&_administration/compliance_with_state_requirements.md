@@ -33,3 +33,5 @@ There are sometimes other random safety requirements based on local laws (such a
 Many states collect demographic data about students (race, gender, age, etc) and most also require thorough attendance records. Some states require you to submit this information, some require you to have it on file ready to be audited.
 
 Being in a private school (or even a homeschooler) does not necessarily make children exempt from the state’s standardized testing. Some states require private schools to administer tests. Some also require homeschoolers to be tested. Some make testing optional if you’re not in the public schools. Most states will allow anybody required to be tested to get tested at an existing public school for no additional expense. Private schools are often required to keep test results and/or submit them to the state.
+
+Step 1: Read up on your local requirements for establishing a nonpublic school.  Individuals in the United States can use this resource published by the U.S. Department of Education as a starting point. (http://www2.ed.gov/about/offices/list/oii/nonpublic/regulation-map.html)
