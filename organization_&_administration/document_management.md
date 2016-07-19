@@ -7,3 +7,5 @@ If you don’t want to use Google, there’s file-sharing apps like [Dropbox](ht
 Set up a good directory structure sharing documents and encourage everyone on your team to share their documents in a central shared place. In the long run, it will save a lot of time chasing down records and files and safeguard against turnover of personnel who end up being the only one with a copy of certain file.
 
 **Notes:** Remember that not everyone’s strength is in administrative work. Sometimes a good administrator can distribute those roles.
+
+Step 1: Set up a document management system that allows for sharing.
