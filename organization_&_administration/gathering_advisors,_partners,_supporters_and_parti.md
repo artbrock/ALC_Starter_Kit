@@ -19,3 +19,5 @@ Ideally, these **workgroups can also function as small collaborative teams betwe
 Remind people that the **workgroups and large group meetings are establishing the cultural DNA** of the school. Support them in putting effort into keeping promises, collaborating effectively, empowering each other, and building a healthy culture now, rather than later.
 
 Your growing team will also be one of your main channels for reaching more people in the wider community and spreading the word about your project. Empower them and engage them so their sense of ownership of the project increases and their authentic connection to it deepens. This will greatly increase their excitement to talk to others about it.
+
+Step 1: With the people you have now, identify Founders and supporters who are experts that you may call upon for advice (legal, financial, PR, business, etc.) 
