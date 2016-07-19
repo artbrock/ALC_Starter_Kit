@@ -52,3 +52,5 @@ Practice making some “elevator pitches” so that you are comfortable sharing 
 Try versions that connect to different audiences (like the ones [listed above](#core-messaging-target-audiences)). Pretend you’re speaking to a potential parent of a teen who hates school, or a parent of a young child who is starting to be bored in school. Try some versions speaking to other educators, or speaking directly to prospective children.
 
 Don’t just think through these pitches in your head, practice them aloud. Take some time in marketing meetings or founder meetings to have people practice. They might hate it for a few minutes, but they’ll appreciate it later when it helps them think on their feet in an important conversation with someone later.
+
+Step 1: Brainstorm and narrow the list of ALC names to 3-5 options. 
