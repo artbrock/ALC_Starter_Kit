@@ -42,3 +42,5 @@ Depending on the payment plan you choose and if you plan to use Quickbooks for p
 ### Automatic Recurring Invoices {#automatic-recurring-invoices}
 
 **(Member Access) TUTORIAL:** [**QUICKBOOKS PAYMENTS: Customers, Online Invoices/Payments, and Recurring Transactions**](https://docs.google.com/document/d/1opQ-6mlpYK5Z6tqoWNDQ2nfYhZgKG6jR4_NsY0m64Tw/edit)
+
+Step 1: Use the sample cashflow worksheet to make a cashflow worksheet that reflects your projected income and expenses.
