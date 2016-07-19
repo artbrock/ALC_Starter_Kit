@@ -6,7 +6,7 @@ You want to partner with people who look at the [Agile Tree](../communication_&_
 
 It is very easy to find people (parents or otherwise) who want to talk about things, think about things, and tell you what you should do. Those people can be helpful as advisors, supporters or part of your growing community of participants. If they are not active in doing the work to actually launch the school, then they may be best seen solely as founding families, potential staff or volunteers. In that case, they are not really part the founding team and should not be included in work sessions where you need to produce results.
 
-Your co-founders will carry the responsibility of starting the school with you. You need to be able to trust each other, have clear communication and challenging and uncomfortable conversations with them. You will confront many struggles together. It will be useful to make sure you have people with some particular skills, gifts and talents such as:
+Your co-founders will carry the responsibility of starting the school with you. You need to be able to trust each other, have clear communication, and engage in challenging and uncomfortable conversations with them. You will confront many struggles together. It will be useful to make sure you have people with some particular skills, gifts and talents such as:
 
 ### Warm / Welcoming / Intuitive {#warm-welcoming-intuitive}
 
