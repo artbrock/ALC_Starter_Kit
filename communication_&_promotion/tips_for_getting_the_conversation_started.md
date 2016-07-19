@@ -11,3 +11,5 @@ First of all, not everyone in an ALC needs to master all the tough conversations
 **Express Your Authentic Enthusiasm:** We have been taught that the things we say are supposed to sound logical and intelligent. In order to sound this way, people often suppress their excitement about what they’re saying. We recommend that you express your excitement! ALCs and the things students do in them are very exciting. It’s okay to let people feel that excitement. (If you have it, that is… Don’t fake it!) People will remember how your communication made them feel more than the details of what you said. They don’t have to agree with you to appreciate your excitement.
 
 As you practice these few tips for communication, you’ll find yourself communicating more and more effectively about ALC.
+
+Step 1: Tell the story of how you came to self-directed education to another person in the group, especially if you have very little or no personal experience with self-directed education.  Many people you encounter will be hearing about this idea for the first time, and will easily identify with your experiences and observations in the traditional system.
