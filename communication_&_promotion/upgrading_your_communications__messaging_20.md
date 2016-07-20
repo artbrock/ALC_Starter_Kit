@@ -25,3 +25,5 @@ Tools for talking to different alternative ed folks
 ### Having the “Difficult” Conversations {#having-the-difficult-conversations}
 
 FAQ / Tools for talking with skeptics
+
+Step 1: Do some reading using the resources provided in this section of the Kit in preparation for a larger group discussion.
