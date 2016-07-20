@@ -82,4 +82,4 @@ If writing blog posts isn’t your thing (or even if it is, you can still do thi
 
 It’s easy to create a YouTube channel, and it’s also easy to create YouTube playlists of videos that are yours or other people’s to steer people to for learning more about these alternative approaches to education.
 
-Step 1: Assuming you have a name picked out, establish your online presence with a polished website (or contact us to join the ALC network and let us help you get up and running quickly).
+Step 1: Assuming you have a name picked out, purchase a domain where you will establish your online presence with a polished website (or contact us to join the ALC network and let us help you get up and running quickly).
