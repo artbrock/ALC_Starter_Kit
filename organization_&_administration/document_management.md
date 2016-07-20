@@ -5,7 +5,9 @@ Mostly likely, your founding team doesn’t live all in one house, or you don’
 If you don’t want to use Google, there’s file-sharing apps like [Dropbox](https://www.dropbox.com/) or many other cloud storage options. There are even open source options if you want to run your own server.
 
 Set up a good directory structure sharing documents and encourage everyone on your team to share their documents in a central shared place. In the long run, it will save a lot of time chasing down records and files and safeguard against turnover of personnel who end up being the only one with a copy of certain file.
-
-**Notes:** Remember that not everyone’s strength is in administrative work. Sometimes a good administrator can distribute those roles.
-
+{% aside "callout", "option" %}
+Remember that not everyone’s strength is in administrative work. Sometimes a good administrator can distribute those roles.
+{% endaside %}
+{% aside "cta" %}
 Step 1: Set up a document management system that allows for sharing.
+{% endaside %}
