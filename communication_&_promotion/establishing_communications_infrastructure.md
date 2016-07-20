@@ -1,9 +1,9 @@
 ## Establishing Communications Infrastructure {#establishing-communications-infrastructure}
-
+{% aside "callout", "warning" %}
 ### Home Base {#home-base}
 
 These are a couple basic requirements: Do not pass GO. Do not collect $200\. Do not proceed with any significant marketing without completing these two things or you will just be wasting your time, energy and money.
-
+{% endaside %}
 #### Informational Web Site {#informational-web-site}
 
 Nobody is going to take your marketing efforts seriously if they don’t end up at reasonably professional web site. Your web site can substitute for fancy print materials and all the things it used to take to look legitimate. If you’re still pulling together your founding team and don’t even have a name yet, it’s fine not to have a web site, but if you’re starting to do any marketing and outreach, don’t bother without putting a web site in place first. It is where you will send people, collect leads, share events, and gather newsletter subscribers and social media followers. The basics all start here.
@@ -15,9 +15,9 @@ You can certainly build your own web site from scratch using a content managemen
 #### Lead Management {#lead-management}
 
 If you don’t have a way to keep track of leads/prospects/referrals to make sure you are meeting their needs, answering their questions, inviting them to events, and engaging them in appropriate ways then do NOT start any major marketing effort. It does no good to attract people if you’re just going to drop the ball when they show up. It undermines your credibility and professionalism.
-
+{% aside "callout", "warning" %}
 See the section about [Tracking Prospects](../organization_&_administration/enrolling_students.md#tracking-prospects) for some tips about setting this up. But, do NOT proceed with marketing efforts until you’ve put this in place.
-
+{% endaside %}
 ### Infrastructure for Local Community {#infrastructure-for-local-community}
 
 #### Local Phone Number {#local-phone-number}
@@ -81,5 +81,6 @@ Showing the human side of trying and sometimes failing can actually build greate
 If writing blog posts isn’t your thing (or even if it is, you can still do this), it isn’t hard to point your smartphone at your face, press “record,” and tell a story. That part is easy. Getting comfortable with how you look and sound is another step. Then you can develop your “look/feel/act natural while being filmed” skills.
 
 It’s easy to create a YouTube channel, and it’s also easy to create YouTube playlists of videos that are yours or other people’s to steer people to for learning more about these alternative approaches to education.
-
+{% aside "cta" %}
 Step 1: Assuming you have a name picked out, purchase a domain where you will establish your online presence with a polished website (or contact us to join the ALC network and let us help you get up and running quickly).
+{% endaside %}
