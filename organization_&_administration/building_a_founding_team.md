@@ -28,4 +28,7 @@ Some say a startup school must have a strong leader. Indeed, it is often valuabl
 
 *    More important than charisma is the ability to hold coherence for the vision of what you’re building - to organize people, resources, and conversations in support of that vision coming into being. You can use agile processes to call forth leadership from _everyone_ in different domains that don’t need one main charismatic leader. Rally behind a good leader if you have one, but don’t forget community should always maintain enough collective strength to part ways with anyone who is derailing things from an appropriate path. Using GameShifting in your meetings will help you practice shifting power dynamics keeping you from getting stuck in one pattern of authority.
 
+
+{% aside "cta" %}
 Step 1: With the people you have right now, even if it’s only one or two, identify who best meets the Founding Team roles described above.  It will be tempting to “pick up the mantle” of a role, just to have someone do it, but we suggest that people work to their strengths, rather than try to improve their weaknesses.
+{% endaside %}
