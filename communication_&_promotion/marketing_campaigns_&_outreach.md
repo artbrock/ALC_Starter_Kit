@@ -33,8 +33,10 @@ You can’t (or shouldn’t) make people talk about you, but you certainly can e
 
 **Utility**: Are you providing something vitally useful? People generally won’t tell someone about something they don’t think will be useful to them. Part of this should be easy, because most people consider an education to be very useful. So your job is to demonstrate that THIS TYPE OF EDUCATION is useful -- ideally _more useful_ than the typical approach.
 
-**Dependability**: Do you reliably deliver a good experience? If people think it’s going to be hit or miss whether someone will have a good experience, they often won’t talk about you because they don’t want to be blamed for a bad encounter.This good experience must be assured on two levels: the parents must have a great **customer care experience** through the prospect/admissions process (Communications are returned promptly. They feel welcome. Next steps are clear and easy to navigate. The outcome is clear and understandable, especially if they don’t become a student.), and they and their child must have **good experience of the product** itself (a positive experience at a guest event, a juicy visiting week (free of bullying or trauma), and finally a good schooling experience if they enroll). If you’re not [managing your leads and communications](../organization_&_administration/enrolling_students.md#tracking-prospects), you’re almost certainly going to drop the ball in customer care a lot. If you are unreliable in any of these domains you damage your community’s ability to make referrals on your behalf.
-
+**Dependability**: Do you reliably deliver a good experience? If people think it’s going to be hit or miss whether someone will have a good experience, they often won’t talk about you because they don’t want to be blamed for a bad encounter.This good experience must be assured on two levels: the parents must have a great **customer care experience** through the prospect/admissions process (Communications are returned promptly. They feel welcome. Next steps are clear and easy to navigate. The outcome is clear and understandable, especially if they don’t become a student.), and they and their child must have **good experience of the product** itself (a positive experience at a guest event, a juicy visiting week (free of bullying or trauma), and finally a good schooling experience if they enroll). 
+{% aside "callout", "warning" %}
+If you’re not [managing your leads and communications](../organization_&_administration/enrolling_students.md#tracking-prospects), you’re almost certainly going to drop the ball in customer care a lot. If you are unreliable in any of these domains you damage your community’s ability to make referrals on your behalf.
+{% endaside %}
 **Economy**: Are you providing good value? Having a sliding scale tuition can really help with this one, but obviously some families are challenged to pay any tuition at all. Demonstrating to your community that you’re committed to keep tuitions affordable, your expenses lean, and your budgeting inclusive helps build faith in the affordability of what you’re providing. It can also be useful to specifically tell people things like “ALC NYC tuition is about half the average Manhattan private school tuition according the Wall Street Journal.” Providing people with empowering contexts for the affordability of what you’re doing helps them feel good about the costs of participating.
 
 (*Note: the framework for this section is borrowed from Embracing the N.U.D.E. Model by Scott Degraffenreid and Donna Blandford.)
@@ -76,9 +78,9 @@ For now, we’re skipping writing more about how to plan and organize good fundr
 #### Crowdfunding Campaigns {#crowdfunding-campaigns}
 
 [Crowdfunding](http://www.edutopia.org/crowdfunding-fundraising-resource-guide) is a fairly recent fundraising strategy using websites like [Kickstarter](https://www.kickstarter.com/), IndieGoGo, [GoFundMe](http://www.gofundme.com/), or [Razoo](https://www.razoo.com/) to garner community support and funding for a project or organization. The school could do a campaign, students could do it for a special project or trip, and families could raise funds for tuition.
-
+{% aside "callout", "tip" %}
 Just like with traditional fundraising, be careful not to fatigue that same group of parents and supporters with requests.  You'll typically get one productive try at crowdfunding, so be sure it's for something the organization really needs.
-
+{% endaside %}
 If you decide to do a fundraising campaign, there are sites and services to help you succeed, but here are of the basics:
 
 *   Be sure you’ve built a solid base of people in online social media for spreading word of your campaign.
@@ -111,8 +113,10 @@ Can you schedule speaking gigs in local Agile Meetups or Makerspaces? Do you hav
 Press releases, almost by design, tend to be pretty lifeless and boring. You can write them if you want, but unless you have a [powerful distribution](http://www.prweb.com/) [mechanism](http://www.prnewswire.com/) to get them to numerous media organizations as well as something really newsworthy or exciting to invite people to, you’re probably not going to produce a lot of prospects this way. You might pique the interest of a journalist, but you could do that better by directly contacting journalists who write about relevant issues.
 
 ### Paid Advertising {#paid-advertising}
-
-We would recommend NOT paying for advertising until you’ve gotten skilled at delivering your message in very brief ways to your main target audiences. Because no matter how good a particular advertising channel might be at putting something in front of your audiences eyes, if you don’t have effective ad copy/images/appeal, you won’t be able to convert those eyeballs to active prospects. You’ll only waste money unless you can create effective ads.
+{% aside "callout", "option" %}
+We would recommend NOT paying for advertising until you’ve gotten skilled at delivering your message in very brief ways to your main target audiences. 
+{% endaside %}
+No matter how good a particular advertising channel might be at putting something in front of your audience's eyes, if you don’t have effective ad copy/images/appeal, you won’t be able to convert those eyeballs to active prospects. You’ll only waste money unless you can create effective ads.
 
 #### Traditional Advertising {#traditional-advertising}
 
@@ -133,9 +137,10 @@ We've gotten zero results from traditional ads so far, so would say skip it unle
 Make sure your ads link to a landing page with content directly relevant to what your ad said (see below for more info). If you are starting an ALC in an area with more affordable rates, and are a member of the network, check with us to see if we may have some adwords funding from Google.org available for you.
 
 **Facebook Advertising**: Facebook provides a couple of approaches. You can “boost posts” on your pages, like announcements for events. Or you can display ads which can target people with very specific demographics (e.g. single professional mothers between the ages of 35 and 45 with interests in X, Y, or Z). If you’re really clear about who you want to target, Facebook can be a great way of reaching those very specific people. Make sure your ads link to a landing page with content directly relevant to what your ad said (see below for more info).
-
-**Important Note about Landing Pages**: If you post an ad about “No More Homework” or “Makerspace School” or “Adventure Schooling” then you better be sure that the page they end up on actually talks about the thing you were advertising. This “Landing Page” is almost a requirement for Google Ads and highly recommended for any ad. Have a few paragraphs of text which specifically addresses the issue they came for, maybe a video about the school, and then general information, and then a call to action (like apply to our school, RSVP for this event, or at least sign up for our newsletter). Your ad investment will be wasted if a visitor feels like you are not about the thing they came there for. Use landing pages!
-
+{% aside "callout", "tip" %}
+**About Landing Pages**: If you post an ad about “No More Homework” or “Makerspace School” or “Adventure Schooling” then you better be sure that the page they end up on actually talks about the thing you were advertising. This “Landing Page” is almost a requirement for Google Ads and highly recommended for any ad. Have a few paragraphs of text which specifically addresses the issue they came for, maybe a video about the school, and then general information, and then a call to action (like apply to our school, RSVP for this event, or at least sign up for our newsletter). Your ad investment will be wasted if a visitor feels like you are not about the thing they came there for. Use landing pages!
+{% endaside %}
 **Track of Leads and Conversions**: Use your prospect tracking tools to help you keep track of where leads came from, and how far those leads make it through your enrollment process. Do you get web visitors, but no RSVPs for events? Do they RSVP for an event and never come? Do they come and find out it’s a bad fit and never apply? This can tell you a lot about where you want to keep putting time, energy and money into generating leads in the future.
-
+{% aside "cta" %}
 Step 1: Determine your first target audience for marketing outreach, keeping in mind that it may not be reflected in your core group.
+{% endaside %}
