@@ -22,7 +22,7 @@ Your co-founders will carry the responsibility of starting the school with you. 
 
 ### Charismatic / Figurehead / Charismatic Leader {#charismatic-figurehead-charismatic-leader}
 
-{% aside "callout", "warning" %}
+{% aside "callout", "tip" %}
 Some say a startup school must have a strong leader. Indeed, it is often valuable for parents and community members to have one main person in which to put their confidence. This kind of leader can be a powerful asset as long as their ego doesn’t get in the way of empowering and helping to grow other leaders. Generally, people seeking positions of power and authority don’t fit well in an ALC since it is designed to empower everyone’s leadership, even in the children’s.
 {% endaside %}
 
