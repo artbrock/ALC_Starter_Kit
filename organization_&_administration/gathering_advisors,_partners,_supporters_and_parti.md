@@ -12,7 +12,9 @@ Finding people who support your vision who bring legal, financial, or organizati
 
 If you’ve gathered more than a handful of people who are willing to be active participants in meetings and do some work, then it’s time to organize some workgroups. Be aware that people love to talk, theorize and offer opinions about how things should be done, but those opinions don’t actually accomplish the work of opening a school. Many groups invest hundreds of hours in talking about a school but never manage to open one. We hope our tips will help you avoid being one of those groups and get you quickly to your launch!
 
+{% aside "callout", "warning" %}
 Remember to **AVOID LONG MEETINGS WITH A LARGE GROUP**. If you have 8 or 10 people coming to a planning meeting, break into workgroups (e.g. some working on marketing or the website, others finding a location, others on the budget), and then convene again in the larger group to share results and garner feedback. Always keep large group time to under an hour and don’t expect any kind of work product/output to come from the large group time.
+{% endaside %}
 
 Ideally, these **workgroups can also function as small collaborative teams between meetings** supporting each other in the work that they need to accomplish between meetings. Whenever you’re creating something NEW, people don’t have their lives organized to work on that thing yet, so don’t be surprised if it initially takes a lot of follow-up and reminders for people to get things done.
 
@@ -20,4 +22,6 @@ Remind people that the **workgroups and large group meetings are establishing th
 
 Your growing team will also be one of your main channels for reaching more people in the wider community and spreading the word about your project. Empower them and engage them so their sense of ownership of the project increases and their authentic connection to it deepens. This will greatly increase their excitement to talk to others about it.
 
-Step 1: With the people you have now, identify Founders and supporters who are experts that you may call upon for advice (legal, financial, PR, business, etc.) 
+{% aside "cta" %}
+Step 1: With the people you have now, identify Founders and supporters who are experts that you may call upon for advice (legal, financial, PR, business, etc.)
+{% endaside %}
