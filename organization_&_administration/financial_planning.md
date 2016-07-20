@@ -2,15 +2,18 @@
 
 ### Fundraising {#fundraising}
 
+{% aside "callout", "option" %}
 As entrepreneurs, we believe ALCs should be able to operate as a sustainable business. There is no magical solution we can provide to your fulfill your fundraising fantasies. Unless you have existing relationships with donors or experienced grant-writers who can get you an inside track on grant money, we’d discourage you from spending much time and energy in chasing public or foundation money.
+{% endaside %}
 
 However, if you grow a solid community of supporters who are excited about this innovative approach to education, see the [Communication and Promotion](../communication_&_promotion/README.md) section for help with organizing successful [fundraising events](../communication_&_promotion/marketing_campaigns_&_outreach.md#hosting-events) or [crowdfunding campaigns](../communication_&_promotion/marketing_campaigns_&_outreach.md#crowdfunding-campaigns).
 
 ### Setting a Tuition Scale {#setting-a-tuition-scale}
 
 Most ALCs are private organizations primarily supported through the tuition or fees rather than grants or public tax-based funds. We recommend looking at the prices of other private schools in your area. An ALC _should_ be able to operate at a lower cost than most local private schools, but generally can’t operate as cheaply as church-sponsored schools that have a lot of existing, church-sponsored infrastructure.
-
+{% aside "callout", "option" %}
 Also, if you have a commitment to socio-economic diversity and want to serve a wider cross-section of your community, you may want to try a sliding-scale tuition model. Set your target / full tuition rate (the high end of the scale) near or just below the average local private school tuition (if there are too many church schools skewing the average, you can exclude them). Then set the minimum tuition (low end of the scale) at 20% to 25% the target tuition or somewhere between 5% and 10% of the local median family income.
+{% endaside %}
 
 In this scenario, you are really managing your number of students times your AVERAGE tuition which will probably need to be higher than half of your target tuition to have the school be financially viable. This will allow you to admit students who are good fit to grow the school’s culture rather than just those who can pay the top end of tuitions. You will still need to attract families that can pay tuitions at the high-end of the scale to balance making access available to families at the lower end of the scale.
 
@@ -36,9 +39,9 @@ If you are a member of the Agile Learning Centers network using our web tools, w
 After collaboratively determining a family’s annual tuition amount you’ll need to present them with their payment schedule options -- all of these details should be clearly laid out in the Enrollment Agreement (more on that later).
 
 We recommend offering a couple simple tuition schedule options for families -- allowing them some flexibility in how frequently they make tuition payments without overcomplicating things by having a unique payment plan for 20 or 30 different families. _Remember_: the more administrative processes you can simplify and streamline, the more time/energy you’ll have for developing culture, supporting facilitators, recruiting more students, etc.
-
+{% aside "callout", "warning" %}
 It’s important to have some portion of the annual tuition amount paid upfront as a deposit. Doing so creates a membrane of commitment from the family to your ALC and provides you the funds you need to get things going. We recommend making deposits nonrefundable and including that very clearly in conversation with families and within the Enrollment Agreement.
-
+{% endaside %}
 The standard tuition payment schedule that we’ve found to be effective and for budgeting and palatable for most families looks like this:
 
 *   **A deposit of 20% of the annual tuition amount is due with the signing of the Enrollment Agreement.**
@@ -46,8 +49,10 @@ The standard tuition payment schedule that we’ve found to be effective and for
 *   **Monthly tuition payments of 10% of the annual tuition amount for 8 months beginning before the first day of year.**
     *   After collecting a 20% deposit in the spring you would begin collecting 10% payments beginning August 1st. The final payment of the year would be due the following March 1st.
 
-This tuition schedule helps startups get some working capital at the beginning when it is really needed, and supports more established ALCs continue to plan and budget with some degree of consistency. If you have the intention for your ALC to financially support you and/or other facilitators we recommend avoiding a 12-month tuition payment plan, as this makes it extremely challenging to budget and set reliable salaries for staff.
-
+This tuition schedule helps startups get some working capital at the beginning when it is really needed, and supports more established ALCs continue to plan and budget with some degree of consistency. 
+{% aside "callout", "warning" %}
+If you have the intention for your ALC to financially support you and/or other facilitators we recommend avoiding a 12-month tuition payment plan, as this makes it extremely challenging to budget and set reliable salaries for staff.
+{% endaside %}
 In addition to the 20% deposit schedule, we recommend offering families the option to pay their annual tuition in one lump sum or two (bi-annual) installments. You may be able to incentivise this by offering a small (5-10%) discount to anyone willing/able to pay the annual tuition in one payment. Be _very clear_ (in conversation and writing) that any and all tuition payments are non-refundable. _Remember_: the more of your annual tuition agreements you can collect upfront the more reliably you can budget and make financial plans for the year.
 
 ### Budgeting {#budgeting}
@@ -72,5 +77,6 @@ Banks require a bunch of documentation and paperwork for organizations to open a
 *   You’ll need **minutes from a board** meeting which authorize someone to open a bank account for the organization and also specify who is authorized to sign checks. Your board may also want to place a check signing limit above which requires two signatures (like $5,000) to keep someone from quickly removing all the schools funds with a single check.
 *   **Tax ID Number** or Federal Employer Identification Number (EIN). You’ll need a copy of the document the government gave you when they gave you that number.
 *   **Government IDs for the signers** who come along to the bank to provide their signatures for checks
-
-Step 1: Create a list of private schools in the area, both independent and church-sponsored, with their annual tuition.  You can use this list to make an informed decision about your tuition. 
+{% aside "cta" %}
+Step 1: Create a list of private schools in the area, both independent and church-sponsored, with their annual tuition.  You can use this list to make an informed decision about your tuition.
+{% endaside %}
