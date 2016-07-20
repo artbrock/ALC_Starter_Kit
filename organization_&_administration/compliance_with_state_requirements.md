@@ -18,8 +18,10 @@ Each state has different laws about what private schools are required to do with
 
 All states have some sort of Immunization requirements for children. Schools are basically the enforcement arm for ensuring that vaccinations happen. You will be required to collect immunization records for all your students (or a convincing letter of exemption for either medical or religious reasons ([Exemption requirements also vary by state](http://www.nvic.org/vaccine-laws/state-vaccine-requirements.aspx).)).
 
-Most states have immunization reporting requirements that have to be submitted fairly early in the school year. Some states (e.g. Hawaii) will not permit a child to attend school who has not proven that they’re immunized or scheduled their missing immunizations. We recommend that collecting immunization information be integrated into your admissions process and collected along with enrollment contracts and emergency medical information.
-
+Most states have immunization reporting requirements that have to be submitted fairly early in the school year. Some states (e.g. Hawaii) will not permit a child to attend school who has not proven that they’re immunized or scheduled their missing immunizations. 
+{% aside "callout", "tip" %}
+We recommend that collecting immunization information be integrated into your admissions process and collected along with enrollment contracts and emergency medical information.
+{% endaside %}
 #### Zoning, Fire & Safety {#zoning-fire-safety}
 
 There may sometimes be zoning restrictions about where schools can operate, but many communities allow schools and churches to operate in any standard residential, agricultural or commercial area. Check the zoning restrictions in your area if you don’t want to get shut down for operating in a place schools are not allowed to operate.
@@ -31,7 +33,9 @@ There are sometimes other random safety requirements based on local laws (such a
 #### General Reporting Requirements & Testing {#general-reporting-requirements-testing}
 
 Many states collect demographic data about students (race, gender, age, etc) and most also require thorough attendance records. Some states require you to submit this information, some require you to have it on file ready to be audited.
-
+{% aside "callout", "warning" %}
 Being in a private school (or even a homeschooler) does not necessarily make children exempt from the state’s standardized testing. Some states require private schools to administer tests. Some also require homeschoolers to be tested. Some make testing optional if you’re not in the public schools. Most states will allow anybody required to be tested to get tested at an existing public school for no additional expense. Private schools are often required to keep test results and/or submit them to the state.
-
+{% endaside %}
+{% aside "cta" %}
 Step 1: Read up on your local requirements for establishing a nonpublic school.  Individuals in the United States can use this resource published by the U.S. Department of Education as a starting point. (http://www2.ed.gov/about/offices/list/oii/nonpublic/regulation-map.html)
+{% endaside %}
