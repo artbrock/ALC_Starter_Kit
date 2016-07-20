@@ -22,7 +22,9 @@ Your co-founders will carry the responsibility of starting the school with you. 
 
 ### Charismatic / Figurehead / Charismatic Leader {#charismatic-figurehead-charismatic-leader}
 
-{% aside "callout", "warning" %} Some say a startup school must have a strong leader. Indeed, it is often valuable for parents and community members to have one main person in which to put their confidence. This kind of leader can be a powerful asset as long as their ego doesn’t get in the way of empowering and helping to grow other leaders. Generally, people seeking positions of power and authority don’t fit well in an ALC since it is designed to empower everyone’s leadership, even in the children’s. {% endaside %}
+{% aside "callout", "warning" %}
+Some say a startup school must have a strong leader. Indeed, it is often valuable for parents and community members to have one main person in which to put their confidence. This kind of leader can be a powerful asset as long as their ego doesn’t get in the way of empowering and helping to grow other leaders. Generally, people seeking positions of power and authority don’t fit well in an ALC since it is designed to empower everyone’s leadership, even in the children’s. 
+{% endaside %}
 
 *    More important than charisma is the ability to hold coherence for the vision of what you’re building - to organize people, resources, and conversations in support of that vision coming into being. You can use agile processes to call forth leadership from _everyone_ in different domains that don’t need one main charismatic leader. Rally behind a good leader if you have one, but don’t forget community should always maintain enough collective strength to part ways with anyone who is derailing things from an appropriate path. Using GameShifting in your meetings will help you practice shifting power dynamics keeping you from getting stuck in one pattern of authority.
 
