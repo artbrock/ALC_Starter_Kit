@@ -80,5 +80,6 @@ We put the details about our [tools and practices in the Facilitation section](.
 The fruit of the tree is the benefits to the students, staff and community. Our Agile Tree bears a lot of fruit… (illustrate a bunch of cool benefits here).
 
 [insert Agile Tree image here]
-
+{% aside "cta" %}
 Step 1: Have a group discussion about the Agile Tree philosophy, focused on practical examples or applications of it that you’ve observed in the past.  (This discussion will help team members for whom the Kit was too abstract to be meaningful.)
+{% endaside %}
