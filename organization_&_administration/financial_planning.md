@@ -79,6 +79,7 @@ Banks require a bunch of documentation and paperwork for organizations to open a
 *   You’ll need **minutes from a board** meeting which authorize someone to open a bank account for the organization and also specify who is authorized to sign checks. Your board may also want to place a check signing limit above which requires two signatures (like $5,000) to keep someone from quickly removing all the schools funds with a single check.
 *   **Tax ID Number** or Federal Employer Identification Number (EIN). You’ll need a copy of the document the government gave you when they gave you that number.
 *   **Government IDs for the signers** who come along to the bank to provide their signatures for checks
+*   
 {% aside "cta" %}
 Step 1: Create a list of private schools in the area, both independent and church-sponsored, with their annual tuition.  You can use this list to make an informed decision about your tuition.
 {% endaside %}
