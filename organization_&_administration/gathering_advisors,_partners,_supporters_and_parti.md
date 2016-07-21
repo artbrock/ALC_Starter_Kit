@@ -4,6 +4,8 @@ Beyond the reliable workers on your Founding Team, you will also need to start b
 
 It’s actually really great to get some outspoken, passionate kids involved in this stage who can speak in groups or at events about why they choose to come to a school like this.
 
+>Your growing team will also be one of your main channels for reaching more people in the wider community and spreading the word about your project.
+
 It is important to have parents on your founding team who are committed to enrolling their children in the school. Parents who can speak about why they’ve made this choice are vital to establishing credibility to prospective parents, and are great to have chime in at events.
 
 Finding people who support your vision who bring legal, financial, or organizational expertise is also important. You will have a lot of questions, and you don’t want to have to hire a professional for every legal, accounting or business question you have.These people’s experience, insight and perspectives will enrich your strategy and planning process.
