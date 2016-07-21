@@ -1,6 +1,7 @@
 ## Financial Management & Administration {#financial-management-administration}
 
 It seems like most people who are passionate progressive educators do not usually have a lot of experience with the details of running a business. We have seen numerous competent people become overwhelmed with managing the business details of their school. For this reason, we recommend that you eliminate as much paperwork and detail management as possible by automating tuition payments, bank deposits, bill payments, payroll deposits, and tax payments. When these things are working smoothly, the remaining details don’t feel so overwhelming.
+>Stressed out administrators do not improve the culture for staff or students.
 
 ### Projecting & Managing Cashflow {#projecting-managing-cashflow}
 
