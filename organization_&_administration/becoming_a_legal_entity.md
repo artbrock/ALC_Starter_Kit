@@ -45,7 +45,9 @@ The Charter Council has no power or accountability in school policy or daily ope
 
 **Assembly:** This body operates as the School Board or the Board of Directors of the organization. We actually keep the policy-making and decision making of this larger body fairly narrow so that most of the work can get done in smaller more productive groups. It’s formal duties are electing its own members, advisors and officers, approving the budget, approving staff appointments, generating necessary workgroups who summarize their actions, proposing changes to bylaws, and empowering the School Administration for policy-making and daily operations.
 
+{% aside "story" %}
 In NYC, we’ve taken the approach of having the first signer on a student’s Enrollment Agreement be a family’s representative on the board (even if they never come to a meeting). We see this providing opportunity for parent engagement, ownership and leadership as well as providing a strange sort of liability protection from frivolous lawsuits (If they wanted to sue the school for some policy, or attempt to “pierce the corporate veil” for neglect of fiduciary duties, they would essentially be accusing and suing themselves as well.).
+{% endaside %}
 
 **Work Committees:** These are also called “workgroups” in this document. This is where the real value and work of the Assembly happens. Workgroups such as the Finance Committee, Admissions Committee, Marketing & Outreach, Graduation Requirements, etc. Assembly Meetings actually have some initial time for workgroups to work (make plans, decisions, and schedules) and create their summary BEFOREHAND so that they’re ready to report results to the Assembly during the larger group time.
 
