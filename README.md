@@ -14,4 +14,4 @@ The Starter Kit is organized into three main parts. Founders/Directors/Coherence
 
 [Facilitation & Daily Operation](export/facilitation_&_daily_operation/README.md) contains all our tools and practices for the people working with the students on a daily basis and fostering a healthy culture in the school.
 
-{{SUMMARY.md}}
+{% include "./SUMMARY.md" %}
