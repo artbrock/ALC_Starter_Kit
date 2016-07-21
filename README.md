@@ -4,7 +4,7 @@
 
 ## _Beta_ Starter Kit
 
-**Temporary note:** This is just a working document and will become its own web site. Items in <span style="color:red;">red text</span> should be updated later to link to the appropriate section once it exists.
+**Temporary note:** This is just a working document and will become its own web site. Items in <span class="fixit">red text</span> should be updated later to link to the appropriate section once it exists.
 
 The Starter Kit is organized into three main parts. Founders/Directors/Coherence-Holders will need be familiar with all three sections, but many people involved in running an ALC will primarily be drawn to one of these sections which connects most to the focus of their work.
 
@@ -14,5 +14,4 @@ The Starter Kit is organized into three main parts. Founders/Directors/Coherence
 
 [Facilitation & Daily Operation](export/facilitation_&_daily_operation/README.md) contains all our tools and practices for the people working with the students on a daily basis and fostering a healthy culture in the school.
 
-**Table of Contents**
-
+{{SUMMARY.md}}
