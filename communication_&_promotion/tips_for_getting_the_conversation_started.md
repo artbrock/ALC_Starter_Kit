@@ -2,6 +2,8 @@
 
 We all have travelled our own paths discovering the importance of trusting and empowering children to navigate their lives, and the power and effectiveness of ALC model for supporting them in that process. However, that doesn’t mean we’re all good at talking about it.
 
+>People will remember how your communication made them feel more than the details of what you said.
+
 First of all, not everyone in an ALC needs to master all the tough conversations that come up when grappling with skeptics and critics. Hopefully, each community will have a few people who like to do that and develop the skills to do so, but it is very powerful to have EVERYONE be able to be a spokesperson for the school on some basic level. We’d like to provide a few tips to help you start that pattern.
 
 **Share from Personal Experience:** The most compelling thing you can share is how ALCs have directly impacted you or your child(ren). Take some time to think of the biggest differences that have come from being in (or having your children in) a self-directed learning environment with a powerful, participatory culture. Clarify for yourself why you think they’re important, and why they would not have happened in a traditional setting. Then do the next tip.
