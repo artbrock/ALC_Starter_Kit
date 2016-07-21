@@ -6,7 +6,11 @@ Some things are central to what ALCs are about, but other elements are flexible 
 
 The biggest dividing line between ALCs and old school educational systems boils down to this: **Who do we trust to direct a child’s learning**?
 
-Most educational settings (around 99% of them) come from a perspective that children are a kind of empty vessel who couldn’t possibly know what’s good for them. So _someone else_ needs to decide what they should learn, how they should learn it, and then tell them whether they’ve learned it well enough. That “_someone else_” may be a school board lobbied by corporate interests, or a curriculum committee who has to call their grandkids for tech support to use a computer, or superintendents, principals or teachers. It just never seems to be the person who actually has to live with the consequences of these choices -- the child.
+Most educational settings (around 99% of them) come from a perspective that children are a kind of empty vessel who couldn’t possibly know what’s good for them. So _someone else_ needs to decide what they should learn, how they should learn it, and then tell them whether they’ve learned it well enough.
+
+>An Agile Learning Center is not a place to use hip sounding tools to get children to jump through a bunch of hoops.
+
+That “_someone else_” may be a school board lobbied by corporate interests, or a curriculum committee who has to call their grandkids for tech support to use a computer, or superintendents, principals or teachers. It just never seems to be the person who actually has to live with the consequences of these choices -- the child.
 
 #### A Leap of Faith {#a-leap-of-faith}
 
@@ -15,7 +19,7 @@ We could give a lot of _reasons_ why a child needs to be in the driver’s seat 
 Our experience with parents also has shown us that the deeper issue is usually not an inability to trust the child, but an inability to trust themselves. This is the crux of the matter. Most of us have grown up immersed in systems that teach us we aren’t trustworthy. We went to schools which don’t trust us (as described above), maybe had protective parents at home, and live in a patronizing society with untrusting laws, limiting choices to narrow menus options of majors, classes careers, or political parties. Most internalize the message that we can’t really be trusted.
 
 It is a powerful thing we do in asking parents to take this leap of faith in trusting themselves to step outside the box of a dysfunctional educational system and extend that faith further to actually trusting their children. Just making this choice… this leap… can be life-changing. It certainly alters the fabric of relationship within a family. And most importantly, the children immediately start learning they can trust themselves -- a lesson many adults have still been denied.
-
+{% aside "callout", "option" %}
 #### Some Reasons to Trust {#some-reasons-to-trust}
 
 We focused on the leap of faith without giving reasons because that’s fundamentally the emotional shift parents have to make. However, everyone likes to explain themselves in sensible ways to others, so here are just a few of the reasons that it is smart to trust the child to be in the driver’s seat of their education:
@@ -29,6 +33,7 @@ We focused on the leap of faith without giving reasons because that’s fundamen
 *   By practicing self-direction, children learn greater responsibility. Complete responsibility.
 *   You don’t learn to drive by being told or reading books about it, you have to actually get in the driver’s seat.
 *   Following their authentic interests makes them better attuned to their passions and hones their ability to listen for their deeper purpose.
+{% endaside %}
 
 An Agile Learning Center is not a place to use hip sounding tools to get children to jump through a bunch of hoops. If you don’t trust that children are the best, if not the ONLY ones to decide what the need to learn, you’re not building an ALC. You’re just using some new tools to try to do old things better. We strongly recommend against faking it. Our tools are designed to produce actual empowerment, not pretend empowerment -- you will likely end up with a mutiny on your hands as empowered kids figure out they don’t have to be limited to your constraints.
 
