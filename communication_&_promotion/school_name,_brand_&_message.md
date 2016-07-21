@@ -39,6 +39,8 @@ Some examples of people who may be early adopters at an ALC:
 {% endaside %}
 Now imagine you have the space of a Google Ad to write a phrase to get their attention. Or you have 30 seconds of possible interest in a casual conversation in passing. Notice how different the things are that you would say depending on who they are. Is it about testing? The current system sucking? Freedom? Self-direction and Purpose? Agile tools? Gifted? Troublemakers?
 
+>Pick one or two groups to focus on because you have a way to reach them, and then get good at reaching them.
+
 Yes… We know you probably want to able to serve all those people. If they have great kids, why shouldn’t they come to your school? The problem is that if you try to make a message that communicates “We meet your need” to all those different groups, you’ll probably fail to communicate with any of them effectively. This is the reason you have to reel in your message and figure out who you’re targeting and how. As the saying goes, “If you try to be everything to everyone, you end up being nothing to noone.”
 
 Figure out what your low-hanging fruit is. Do you have a lot of homeschoolers and a way to reach them? Do have a good angle through some tech companies into the families of techies? Are local tensions about extreme testing riling up parents? Did a nearby charter school just close down? Pick one or two groups to focus on because you have a way to reach them, and then get good at reaching them. You can expand your message to other groups later once you actually some students enrolled or a school up and running.
