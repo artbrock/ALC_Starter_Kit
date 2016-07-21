@@ -2,13 +2,15 @@
 {% aside "callout", "warning" %}
 ### Home Base {#home-base}
 
-These are a couple basic requirements: Do not pass GO. Do not collect $200\. Do not proceed with any significant marketing without completing these two things or you will just be wasting your time, energy and money.
+These are a couple basic requirements: Do not pass GO. Do not collect $200. Do not proceed with any significant marketing without completing these two things or you will just be wasting your time, energy and money.
 {% endaside %}
 #### Informational Web Site {#informational-web-site}
 
 Nobody is going to take your marketing efforts seriously if they don’t end up at reasonably professional web site. Your web site can substitute for fancy print materials and all the things it used to take to look legitimate. If you’re still pulling together your founding team and don’t even have a name yet, it’s fine not to have a web site, but if you’re starting to do any marketing and outreach, don’t bother without putting a web site in place first. It is where you will send people, collect leads, share events, and gather newsletter subscribers and social media followers. The basics all start here.
 
 This is one of the reasons we provide a basic informational web site generated from a template to startups that join the ALC network. We want to get you past this hurdle as quickly as possible so you can start getting to your real work instead of spending months stuck in web developer mode. Obviously, we recommend becoming a member, starting with this template and customizing the content to the needs of your project.
+
+>If you wait for everything to be _just right_, you'll never get there. Start the discipline of authentic sharing and transparency before you think you're ready.
 
 You can certainly build your own web site from scratch using a content management system (like Wordpress, Drupal, or Joomla) or a web publishing framework (like SquareSpace, Wix, etc.). Then you’ll need to write your content, find images, make it pretty, etc. We don’t want building a web site to occupy your team so long that it keeps them from doing important tasks to attract new people and build the rest of your infrastructure.
 
