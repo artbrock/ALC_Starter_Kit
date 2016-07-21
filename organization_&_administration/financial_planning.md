@@ -63,7 +63,11 @@ In an ideal scenario, you would have all of your students for each school year s
 
 When you’re first starting out this scenario is not very likely. It’s very common to have your projected income (tuition agreements) fluctuate throughout the year. Even when your ALC is well-established, families will move and others will determine they’re not ready for self-directed learning a few months into a school year. **Creating a budget is really a process of prioritizing the various facets of your ALC’s financial operations.**
 
-The biggest pieces of the budget are the fixed costs -- facility, utilities, and other monthly bills (insurance, internet, payroll taxes, etc.) Once you have these things established, you’ll want to look at what is left and have transparent conversations with your staff and the rest of the Finance Workgroup to determine salaries. It’s also recommended that you determine what each staff role _should_ be earning, even if you know you can’t reach that number right away (this helps the Finance Workgroup know where additional funds should be allocated when they come in later on).
+The biggest pieces of the budget are the fixed costs -- facility, utilities, and other monthly bills (insurance, internet, payroll taxes, etc.) Once you have these things established, you’ll want to look at what is left and have transparent conversations with your staff and the rest of the Finance Workgroup to determine salaries. 
+
+>Creating a budget is really a process of prioritizing the various facets of your ALC’s financial operations.
+
+It’s also recommended that you determine what each staff role _should_ be earning, even if you know you can’t reach that number right away (this helps the Finance Workgroup know where additional funds should be allocated when they come in later on).
 {% aside "callout", "tip" %}
 As an unfunded startup, you may not be able to pay everyone as much as you’d like, so making the full financial picture visible to these stakeholders is important. Those who are holding the vision and growing the ALC with you need to understand what resources are available and how they’re being allocated. This level of transparency will also help garner more support for fundraising efforts when there are financial gaps to be filled. 
 {% endaside %}
