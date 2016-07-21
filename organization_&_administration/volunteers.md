@@ -2,6 +2,8 @@
 
 Part of what makes a rich learning environment is having passionate adults that are excited about things and willing to share them with kids. You can augment your basic staffing levels with parents, young adults, or not-so-young adults who are interesting people. A big part of what makes someone interesting is that they have keen interests in things.
 
+>Having everybody feel safe is a vital part of creating a healthy culture in the school.
+
 However, in today’s world there are some common-sense steps to take to safeguard your environment for the children (and for overprotective parents).
 
 **Validate Identity:** We have volunteers complete a web-based form with complete contact information (full name, address, phone, drivers licens #, etc.). We also have a checkbox on that form where they agree to authorize us to do a criminal background check on them. When they come in to the school for the first time, we make a copy of their ID to keep on file.
