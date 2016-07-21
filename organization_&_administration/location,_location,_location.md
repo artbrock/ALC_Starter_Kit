@@ -39,6 +39,7 @@ Check your local zoning requirements for spaces with children of various ages. S
 It is tempting to fill the space with lots of resources for the children, but don’t let the school become a dumping ground for old toys, games, books, equipment, and questionably useful junk. The adults love having lots of books, our observation is that the kids don’t tend to use them that much (beyond young children’s illustrated picture books).
 {% endaside %}
 The space should feel comfortable and homey to the kids, not sterile and institutional. You can use bookshelves as walls divide large rooms, into smaller cozier spaces. Ask your community to help find couches, pillows and comfy chairs. Make clear places for children to put and keep their stuff (lockers, hooks, shelves or cubbies). Include large solid tables for art projects. You can also have spaces be re-arrangeable for different seasons, events or activities.
+
 {% aside "cta" %}
 Step 1: Assuming you do not have immediate access to real estate, create a specific list of minimum requirements for a facility.  Many ALC characteristics are flexible, but having a list of must-haves/ deal-breakers will allow many people to do the searching at once. 
 {% endaside %}
