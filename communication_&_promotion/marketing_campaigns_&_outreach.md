@@ -6,6 +6,8 @@ There’s no such thing as an effective and generic marketing campaign. If your 
 
 You will have a hard time making your message move the people you want to move if you haven’t actually taken the time to figure out who they are and what they need. Your message is going to have to speak to their needs, their wants, their motivations, or their fears.
 
+>Most people care about kids. Most know the existing educational system isn’t working. Most wish to have the kind of respect and freedom we grant each other at an ALC.
+
 Before you do ANY marketing action (whether planning an event, choosing keywords for a Google Ad, or writing a press release) you need to ask these questions:
 
 *   Which audience(s) are we targeting?
