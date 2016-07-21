@@ -6,6 +6,7 @@ Please see the communications section for resources to help target and attract f
 
 You need an organized system for keeping track of prospect that you are in various stages of conversation with. At first, little sticky notes and lists seem manageable, but soon they become a tangled mess. So if you want to be able to follow up on a conversation from last month, last quarter, or last year, you’ll need a well organized approach. We recommend having them in a shared space so that others teammates can pick up each other’s progress if necessary. Here are some options from simple to sophisticated:
 
+{% aside "callout", "option" %}
 #### Google Spreadsheet {#google-spreadsheet}
 
 Create a shared Google Apps Spreadsheet. Put a new student prospect in each row with columns for things like: Parents Name(s), Child’s name, Age, Phone #, Email, etc. Then more columns for stages of the process: Initial contact, Attended Event, Follow up, Application Submitted, etc. Also, you’ll probably want to have a big column for notes about your conversations, because you will almost certainly forget the details a month or two later after talking with 20 other families and children.
@@ -23,6 +24,7 @@ Again you may want to create a separate board for the Admissions process after s
 Customer Relationship Management (CRM) systems can be very powerful and useful, but there is often a steep learning curve in getting one built, configured and keeping it up to date. If you have people with experience setting up and using CRM systems, and your team is comfortable using a sophisticated system, then you may want to try this out. In the long run, having a CRM system will provide greater value than the other alternatives in your ability to create reports, mailing list, and track touchpoints and participation of people. But in the short run, it can be a lot of work get it started.
 
 [SalesForce.com](http://www.salesforce.com/) is free for use by non-profit organizations. [CiviCRM](https://civicrm.org/) and [SugarCRM](http://www.sugarcrm.com/) are also free and popular open source alternatives. Be sure you have someone with the technical skills to set up, customize and support your CRM system if you decide to use an open source tool.
+{% endaside %}
 
 ### Admissions Process {#admissions-process}
 
