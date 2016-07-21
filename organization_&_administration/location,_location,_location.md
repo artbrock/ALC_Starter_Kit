@@ -2,6 +2,8 @@
 
 Selecting a location for your school can significantly change decision dynamics for your community of interested families. Whether we like it or not, many families are comfortable about the _idea_ of the school while it is still an idea, but as soon as it becomes a concrete object there is a whole other emotional relationship.
 
+>The space should feel comfortable and homey to the kids, not sterile and institutional. 
+
 Many people will be excited just to have a dream start to become real, but some may not feel comfortable with the part of town (feel unsafe, foreign, distant or unfamiliar), and others may not have a good feeling about the building (dark, old, dirty, or outdated). Do not be surprised if you lose a few people over your choice of location. It may not happen, or they may not tell you this is the reason they left, but it can be quite challenging to get something that pleases everyone.
 
 ### Location Selection Strategy {#location-selection-strategy}
