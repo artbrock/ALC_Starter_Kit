@@ -151,7 +151,7 @@ Serves to bolster open communication and intentional culture creation and is com
 
 #### Blogging {#blogging}
 
-Blogging fulfills the agile cycle of learning by creating sharable value and serve as our upgrade to the report card. This record becomes a digital portfolio of work that is student-generated. This compendium of interests and accomplishments serves as a feedback loop so students can see what they keep returning to, and recognize patterns in their own learning.
+Blogging can fulfill the agile cycle of learning by creating sharable value and serve as our upgrade to the report card. This record becomes a digital portfolio of work that is student-generated. This compendium of interests and accomplishments serves as a feedback loop so students can see what they keep returning to, and recognize patterns in their own learning.
 
 It can serve to provide parents with a sense of security and safety, because colleges and employers will look at an online portfolio. The President of Harvard recently addressed parents on the topic of how to get their children into Ivy League schools: “Encourage children to follow their passions as a way to develop an interesting personality.” The portfolio is an innovative way for our students to demonstrate how interesting they are.
 
