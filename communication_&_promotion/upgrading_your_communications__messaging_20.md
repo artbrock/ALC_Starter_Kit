@@ -1,6 +1,6 @@
 ## Upgrading your Communications / Messaging 2.0 {#upgrading-your-communications-messaging-2-0}
 
-If you’ve gotten the basics down in talking about Agile Learning Centers then it’s time to expand your capacities. It’s very useful to be able to be able to place ALCs in context… in an ongoing evolution of educational systems that have been designed for particular purposes and yield particular results. We also have been building some tools to help answer challenging questions, and even provide substantial data for the skeptics that want to see “proof” that it works.
+If you’ve gotten the basics down in talking about Agile Learning Centers then it’s time to expand your capacities. It’s very useful to be able to be able to place ALCs in context: within an ongoing evolution of educational systems that have been designed for particular purposes and yield particular results. We also have been building some tools to help answer challenging questions, and even provide substantial data for the skeptics that want to see “proof” that it works.
 
 ### ALC in Context {#alc-in-context}
 
