@@ -6,7 +6,7 @@ Unfortunately, we don’t have a magic trick to help you come up with the perfec
 
 Others keep their pre-existing identity (like The Farm School) and just integrate our agile practices. And still others have a simple name (like Cloudhouse) and being an ALC is a footnote. In fact, some groups have adopted “ALC” but expand the acronym as “Agile Learning Community.”
 
-If the name of your project is not clear at the outset, one good approach to choosing can be to brainstorm a bunch of names, invite feedback from your community to see if any really bomb, then pick a few favorites and try them out for a while. Try using the names in meetings, feel how they taste in your mouth and how they sound to your ears. See which one starts to stick and run with it.
+If the name of your project is not clear at the outset, one good approach to choosing can be to brainstorm a bunch of names, invite feedback from your community, then pick a few favorites and try them out for a while. Try using the names in meetings, feel how they taste in your mouth and how they sound to your ears. See which one starts to stick and run with it.
 
 ### Visual Brand Identity {#visual-brand-identity}
 
@@ -41,7 +41,7 @@ Now imagine you have the space of a Google Ad to write a phrase to get their att
 
 >Pick one or two groups to focus on because you have a way to reach them, and then get good at reaching them.
 
-Yes… We know you probably want to able to serve all those people. If they have great kids, why shouldn’t they come to your school? The problem is that if you try to make a message that communicates “We meet your need” to all those different groups, you’ll probably fail to communicate with any of them effectively. This is the reason you have to reel in your message and figure out who you’re targeting and how. As the saying goes, “If you try to be everything to everyone, you end up being nothing to noone.”
+Yes… We know you probably want to able to serve all those people. If they have great kids, why shouldn’t they come to your school? The problem is that if you try to make a message that communicates “We meet your need” to all those different groups, you’ll probably fail to communicate with any of them effectively. This is the reason you have to reel in your message and figure out who you’re targeting and how. As the saying goes, “If you try to be everything to everyone, you end up being nothing to no one.”
 
 Figure out what your low-hanging fruit is. Do you have a lot of homeschoolers and a way to reach them? Do have a good angle through some tech companies into the families of techies? Are local tensions about extreme testing riling up parents? Did a nearby charter school just close down? Pick one or two groups to focus on because you have a way to reach them, and then get good at reaching them. You can expand your message to other groups later once you actually some students enrolled or a school up and running.
 
