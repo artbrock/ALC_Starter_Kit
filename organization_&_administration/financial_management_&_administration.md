@@ -17,6 +17,7 @@ Don’t make a habit of allowing one person’s financial problem to turn into a
 Build some cashflow muscles by practicing these principles.
 
 *   **Be clear about WHEN you get paid**. Your enrollment contracts need to specify both amount and timing of payment. When possible, automate those payments to happen on those dates with no delays. Of course, a related issue is being clear about WHEN you have to pay others-- rent, insurance, payroll, bills, etc.
+
 *   **Don’t spend what you don’t have.** On one level this means don’t spend money that isn’t in your account, but on a deeper level, it also means having the timing of money set to arrive BEFORE you perform the services someone is paying for. For example, if your fiscal year starts in July, your school year starts in September, and you’re paying your staff year-round, then you are two months into paying your staff before the students show up. The tuition deposit should have covered that, but the next payment should probably be by September 1st. That way, if there is a problem with a family paying it, you are resolving that problem _while_ you’re providing your service, not after.
 *   **Always keep a margin of error.** Ideally, you will have some cash reserves, or at least a line of credit that you can draw on in an emergency.  But this also means that you should learn _how much_ you should be **under**estimating your income, and **over**estimating your expenses. You will lose some families and students and have some unexpected expenses; it happens. Get used to managing your cashflow with an appropriate margin of error for these things.
 
@@ -27,8 +28,11 @@ Sample cashflow worksheet
 ### Getting Started with Admin Automation: {#getting-started-with-admin-automation}
 
 *   **Hire a small accounting firm** for some of these tasks (bookkeeping, paycheck processing, payroll taxes, and annual tax forms). It may seem like you don’t have the money to pay one, but the lost energy from being stressed about these things will detract more from the value and culture of your school than the accountant will cost. You should be able to find a firm willing to do it all for around $200 per month. Use the time saved to find another student, which should more than pay for it.
+
 *   **Pay the small transaction fees** to have people pay their tuition electronically and have it automatically deposited to your bank account. See below for how to set this up using Quickbooks.
+
 *   **Direct deposit of paychecks** will reduce your staff’s stress too.
+
 *   **Set up automatic payments from your bank account** for your rent, utilities, and liability insurance.
 
 Some people are afraid of automating these things, thinking “What if the money isn’t there?” However, wasting time juggling these kinds of details helps ensure your attention is NOT on enrolling new students, which is the real way for the money to be there. Shift your energy away from repetitive administrative tasks and toward growing the school's profile in the community and supporting a healthy culture at the school. I can assure you that stressed out administrators do NOT improve the culture for staff or students.

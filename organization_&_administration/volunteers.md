@@ -19,3 +19,6 @@ Having everybody feel safe is a vital part of creating a healthy culture in the 
 {% aside "cta" %}
 Step 1: Establish your organization’s boundaries for volunteers regarding criminal backgrounds and records, being mindful of any local laws, and apply these boundaries to your current team.
 {% endaside %}
+
+****UPDATE:****
+Check out this [helpful outline from Wildwood ALC](https://docs.google.com/document/d/1U3w037Sxx5kLJD3NQ8qn2kOYiSgaOLn2PR5GmXhZ_hk/edit) that explains how volunteers and visitors can best show up to support the community's culture. 

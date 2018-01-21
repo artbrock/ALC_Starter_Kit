@@ -115,9 +115,9 @@ Can you schedule speaking gigs in local Agile Meetups or Makerspaces? Do you hav
 Press releases, almost by design, tend to be pretty lifeless and boring. You can write them if you want, but unless you have a [powerful distribution](http://www.prweb.com/) [mechanism](http://www.prnewswire.com/) to get them to numerous media organizations as well as something really newsworthy or exciting to invite people to, you’re probably not going to produce a lot of prospects this way. You might pique the interest of a journalist, but you could do that better by directly contacting journalists who write about relevant issues.
 
 ### Paid Advertising {#paid-advertising}
-{% aside "callout", "option" %}
+
 We would recommend NOT paying for advertising until you’ve gotten skilled at delivering your message in very brief ways to your main target audiences. 
-{% endaside %}
+
 No matter how good a particular advertising channel might be at putting something in front of your audience's eyes, if you don’t have effective ad copy/images/appeal, you won’t be able to convert those eyeballs to active prospects. You’ll only waste money unless you can create effective ads.
 
 #### Traditional Advertising {#traditional-advertising}

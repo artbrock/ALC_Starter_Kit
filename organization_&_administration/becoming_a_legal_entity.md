@@ -65,6 +65,7 @@ Schools as educational organizations generally qualify for 501c3 tax exempt stat
 
 {% aside "callout", "warning" %} This is not a good use of time and energy in early stages of a start-up, since approval may be retroactively applied to 2 years of contributions. {% endaside %}
 
+****UPDATE:****
 In previous edition of this Starter Kit, we suggested that startups consider using a fiscal sponsor when needing to crowdfund and raise money before they are able to obtain their 501c3 status. [We've learned](http://info.legalzoom.com/accept-donations-pending-501c3-24205.html) if a nonprofit obtains their 501c3 status within 27 months of their incorporation date, all donations they receive in before the status is granted will be retroactively deductible. Because you will want to have your own 501c3 status eventually, we recommend taking advantage of this 27-month buffer and begin fundraising from your own entity right away. 
 
 The 501c3 application can be tedious and time-consuming. There's also a filing fee (currently $850). You will need time to complete this and runway to work it into your budget. [If you join](https://agilelearningcenters.org/membership/) the ALC Network, you will have access to many other ALCs who have completed the process and can share copies of their form 1023 with you to ease the process.

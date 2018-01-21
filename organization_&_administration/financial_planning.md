@@ -10,7 +10,7 @@ However, if you grow a solid community of supporters who are excited about this 
 
 Most ALCs are private organizations mostly supported through  tuition or fees, rather than grants or public tax-based funds. We recommend looking at the prices of other private schools in your area. An ALC should be able to operate at a lower cost than most local private schools, but generally can’t operate as cheaply as church-sponsored schools since they are subsidized by the church. 
 
-{% aside "callout", "option" %} Also, if you want to serve as much of the community as possible, you may want to try a sliding-scale tuition model. Set your target / full tuition rate (the high end of the scale) near or just below the average local private school tuition (if there are too many church schools skewing the average, you can exclude them). Then set the minimum tuition (low end of the scale) at 20% to 25% of the target tuition or somewhere between 5% and 10% of the local median family income. {% endaside %}
+{% aside "callout", "option" %} If you want to serve all people from your community, you may want to try a sliding-scale tuition model. Set your target / full tuition rate (the high end of the scale) near or just below the average local private school tuition (if there are too many church schools skewing the average, you can exclude them). Then set the minimum tuition (low end of the scale) at 20% to 25% of the target tuition or somewhere between 5% and 10% of the local median family income. {% endaside %}
 
 In this scenario, you are really managing your number of students times your AVERAGE tuition which will probably need to be higher than half of your target tuition to have the school be financially viable. This will allow you to admit students who are good fit to grow the school’s culture rather than just those who can pay the top end of tuitions. You will still need to attract families that can pay tuitions at the high-end of the scale to balance making access available to families at the lower end of the scale.
 
@@ -25,16 +25,21 @@ We have set up the tuition-setting process to look something like this:
 1. At the end of the Admissions Application, the family marks if they are able to pay the full tuition or if they need to apply for financial aid.
   * 
 If they mark “full tuition”, the Finance Workgroup is informed of the offer and the tuition amount is accepted by default if the student is accepted in the admissions process.
+
   * 
 If the family needs financial aid, they are instructed to complete a Tuition Worksheet. They input the family’s total gross annual income and it returns a recommended tuition based on that figure. Then the family completes the worksheet by making a tuition offer which may be above, below or the same as the recommendation.
 
 2. The completed Tuition Worksheet is emailed to the members of our Finance Workgroup for approval. The workgroup reviews the recommendation and the offer from the family.
   * 
 Often, if the offer is at or above the recommendation it is accepted. However, it is important to see how the offer fits into the larger financial landscape.  For example, too many minimum tuition offers brings the average tuition down and makes the school unsustainable.
+
   * 
 If the offer is significantly lower than the recommendation, a representative from the workgroup contacts the family to get talk about their financial situation. There are just too many factors which affect what a family can pay, so the most effective and honest way to get to a final determination is through having a talk. Again, the goal is for the family to feel like they are giving generously and responsibly, and for the Finance Workgroup to make sure the school is making sustainable financial agreements for the school.
 
 If you are a member of the Agile Learning Centers network, we will provide a Tuition Worksheet and Tuition Slider to help you determine sliding scale tuition for your families.
+
+****UPDATE:****
+After several years of experience and having met a critical mass of enrollment numbers at ALC Mosaic, we've found a tuition tier system to be an upgrade to the original tuition slider. [Read all about ALC Mosaic's approach to tuition here](https://alcmosaic.org/tuition-info). 
 
 ### Tuition Payments Schedule {#tuition-payments-schedule}
 
@@ -45,8 +50,12 @@ We recommend offering a couple simple tuition schedule options for families. Rem
 The best, most effective standard tuition payment schedule looks like this:
 
 *   **A deposit of 20% of the annual tuition amount is due with the signing of the Enrollment Agreement.**
+
     *   Suppose it is March and you’re preparing to open the doors of your ALC in September 1st. Ideally, you’d sign enrollment agreements and collect 20% deposits between March and July.
+     
+    
 *   **Monthly tuition payments of 10% of the annual tuition amount for 8 months beginning before the first day of year.**
+
     *   After collecting a 20% deposit in the spring you would begin collecting 10% payments beginning August 1st. The final payment of the year would be due the following March 1st.
  
 This tuition schedule helps startups get some working capital at the beginning, when it is really needed.  More established ALCs are able to plan and budget with some degree of consistency. 
