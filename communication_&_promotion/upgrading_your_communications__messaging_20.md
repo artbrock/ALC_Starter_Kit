@@ -27,6 +27,7 @@ Tools for talking to different alternative ed folks
 
 ### Having the “Difficult” Conversations {#having-the-difficult-conversations}
 
+{% aside "cta" %}
 ****UPDATE:****
 Read through the [FAQ page on the ALC Network site](https://agilelearningcenters.org/frequently-asked-questions/) to deepen your understanding of some of the most common questions and conversations that come up around Agile Learning Centers. 
 
