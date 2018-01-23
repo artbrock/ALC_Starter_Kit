@@ -29,7 +29,7 @@ Tools for talking to different alternative ed folks
 
 ****UPDATE:****
 Read through the [FAQ page on the ALC Network site](https://agilelearningcenters.org/frequently-asked-questions/) to deepen your understanding of some of the most common questions and conversations that come up around Agile Learning Centers. 
-{% aside "cta" %}
 
+{% aside "cta" %}
 Step 1: Do some reading using the resources provided in this section of the Kit in preparation for a larger group discussion.
 {% endaside %}
