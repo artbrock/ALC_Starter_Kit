@@ -77,6 +77,9 @@ It’s also recommended that you determine what each staff role *should* be earn
 
 After establishing a budget that covers your fixed costs, salary requirements, and other financial priorities, your focus through the rest of the school year will shift to managing cashflow. A budget only deals with the amounts by looking at the whole year at once. A cashflow projection deals with the timing of when money comes in and when it goes out, which is a different challenge to manage.
 
+****UPDATE:****
+A note about Tuition here. Not a typical exchange of $ for services.
+
 ### Opening Bank Accounts {#opening-bank-accounts}
 
 Banks require a bunch of documentation and paperwork for organizations to open accounts. You will generally need:
