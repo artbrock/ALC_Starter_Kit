@@ -2,7 +2,7 @@
 
 ![alc_logo_animation.gif](assets/alclogo_animation.gif)
 
-## Starter Kit: Volume I
+## Starter Kit: Volume I**
 
 The Starter Kit is organized into three main parts. Founders/Directors/Coherence-Holders will need be familiar with all three sections, but many people involved in running an ALC will primarily be drawn to one of these sections which connects most to the focus of their work.
 
